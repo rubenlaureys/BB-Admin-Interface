@@ -11,7 +11,11 @@
 				"default": "en"
 		},
 		"timeFormat": {
-			"type": "number"
+			"type": "string",
+			"enum": [
+				"24", "12"
+				]
+				"default": "24"
 		},
 		"units": {
 			"type": "string"
