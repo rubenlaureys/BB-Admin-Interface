@@ -17,9 +17,6 @@
 				],
 				"default": "24"
 		},
-		"units": {
-			"type": "string"
-		},
 		"modules": {
 			"title": "Modules",
 			"type": "array",
