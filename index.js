@@ -10,7 +10,7 @@ var html = "<!DOCTYPE html>\n\
 	<body>\n\
 		<div class=\"container\">\n\
 		<div class='page-header'>\n\
-				<h1>Magic Mirror² Admin Interface</h1>\n\
+				<h1>Bulletin Board Admin Interface</h1>\n\
 		</div>\n\
 		<p>\n\
 			<button id='submit' class='btn btn-primary'>Save settings</button>\n\
