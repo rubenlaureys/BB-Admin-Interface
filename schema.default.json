@@ -6,9 +6,9 @@
 		"language": {
 			"type": "string",
 			"enum": [
-				"eng", "nl", "fr"
+				"en", "nl", "fr", "ru"
 				],
-				"default": "eng"
+				"default": "en"
 		},
 		"timeFormat": {
 			"type": "number"
