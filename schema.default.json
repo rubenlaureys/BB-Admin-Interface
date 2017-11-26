@@ -3,11 +3,12 @@
 	"type": "object",
 	"format": "grid",
 	"properties": {
-		"port": {
-			"type": "number"
-		},
 		"language": {
 			"type": "string"
+			"enum": [
+				"eng", "nl", "fr"
+				],
+				"default": "eng"
 		},
 		"timeFormat": {
 			"type": "number"
