@@ -21,10 +21,6 @@
 			"title": "Modules",
 			"type": "array",
 			"format": "tabs",
-			"options": {
-				"disable_array_delete_all_rows": true,
-				"disable_array_delete_last_row": true
-			},
 			"items": {
 				"headerTemplate": "{{ self.module }}",
 				"type": "object",
