@@ -30,7 +30,9 @@
 				"type": "object",
 				"format": "grid",
 				"properties": {
-					"module": "worldclock",
+					"module": {
+						"type": "integer"
+					},
 					"position": {
 						"type": "string",
 						"enum": [
