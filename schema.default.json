@@ -31,11 +31,8 @@
 				"format": "grid",
 				"properties": {
 					"module": {
-						"type": "string",
-						//"enum": [
-						//	"worldclock", "calendar", "currentweather", "weatherforecast"
-						//	],
-					},
+						"type": "string"
+						},
 					"header": {
 						"type": "string"
 					},
