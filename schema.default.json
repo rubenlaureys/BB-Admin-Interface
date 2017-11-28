@@ -32,9 +32,9 @@
 				"properties": {
 					"module": {
 						"type": "string",
-						"enum": [
-							"worldclock", "calendar", "currentweather", "weatherforecast"
-							],
+						//"enum": [
+						//	"worldclock", "calendar", "currentweather", "weatherforecast"
+						//	],
 					},
 					"header": {
 						"type": "string"
