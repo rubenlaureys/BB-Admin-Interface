@@ -34,7 +34,10 @@
 						"type": "string"
 						},
 					"header": {
-						"type": "string"
+						"type": "string",
+						"enum": [
+							"calendar", "worldclock"
+						],
 					},
 					"position": {
 						"type": "string",
