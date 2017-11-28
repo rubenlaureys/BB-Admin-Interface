@@ -31,8 +31,7 @@
 				"format": "grid",
 				"properties": {
 					"module": {
-						"type": "string"
-					},
+						"headerTemplate": "{{ module }}"					},
 					"position": {
 						"type": "string",
 						"enum": [
