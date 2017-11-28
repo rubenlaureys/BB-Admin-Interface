@@ -30,9 +30,6 @@
 				"type": "object",
 				"format": "grid",
 				"properties": {
-					"module": {
-						"type": "string"
-					},
 					"position": {
 						"type": "string",
 						"enum": [
