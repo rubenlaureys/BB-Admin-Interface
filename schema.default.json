@@ -31,7 +31,7 @@
 				"format": "grid",
 				"properties": {
 					"module": {
-						"type": "integer"
+						"type": "string"
 					},
 					"position": {
 						"type": "string",
