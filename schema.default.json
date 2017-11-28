@@ -34,7 +34,7 @@
 						"type": "string"
 						},
 					"header": {
-						"type": "string",
+						"type": "string"
 						},
 					"position": {
 						"type": "string",
