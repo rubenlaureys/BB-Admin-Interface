@@ -21,17 +21,16 @@
 			"title": "Modules",
 			"type": "array",
 			"format": "tabs",
+			"options": {
+				"disable_array_delete_all_rows": true,
+				"disable_array_delete_last_row": true
+			},
 			"items": {
 				"headerTemplate": "{{ self.module }}",
 				"type": "object",
 				"format": "grid",
 				"properties": {
-					"module": {
-						"type": "string"
-						},
-					"header": {
-						"type": "string"
-						},
+					"module": "worldclock"
 					"position": {
 						"type": "string",
 						"enum": [
